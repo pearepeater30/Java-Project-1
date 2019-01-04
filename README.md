@@ -11,5 +11,6 @@ James, Sid (1234):  Director at £100000:0 (£29822:0 tax) and is eligible for b
 
 The Salary class contains a single attribute salary which also contains a getter and setter for this attribute. It also contains a method that calculates the amount of tax to be deducted from someones salary. The tax rules provide for a personal allowance of £9440 which is not taxed. Once this sum is deducted from the gross salary, then up to £32010 is taxed at 20%. Anything above that amount will be taxed at 40%. Here is an example for a calculation:
 
+![alt text](https://github.com/pearepeater30/Java-Project-1/blob/master/Capture2.PNG)
 
-
+Finally the CompanyPosition class contains a single attribute positionName. It also contains getters and setters for the attribute positionName.
