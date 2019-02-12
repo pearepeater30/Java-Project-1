@@ -6,7 +6,7 @@
 **test/org/com1027/formative/ng00367 contains all test code. This code was not written by me, but by my lecturers to test my source code.**
 
 
-This goal of this project is to create an employee record system. There are three classes: Employee, Salary and Company Position. This is the class diagram to describe the project:
+The goal of this project is to create an employee record system. There are three classes: Employee, Salary and Company Position. This is the class diagram to describe the project:
 
 ![alt text](https://github.com/pearepeater30/Java-Project-1/blob/master/Capture1.PNG)
 
